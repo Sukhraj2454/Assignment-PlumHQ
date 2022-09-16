@@ -1,0 +1,11 @@
+{
+    "env": "development",
+    "development": {
+        "PORT": "",
+        "DBHOST": "",
+        "DBUSER": "",
+        "DBPORT": "",
+        "DATABASE": "",
+        "DBPASSWORD": ""
+    }
+}
